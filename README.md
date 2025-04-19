@@ -60,7 +60,7 @@ This project uses the News API to fetch the latest news articles. You can learn 
 ## Deployment 🌍
 The application will be deployed to production. Once deployed, you can access the live version of the app at:
 
-**[Live Link](https://newsapi.org/)**
+**[Live Link](https://news-app-olive-two.vercel.app/)**
 
 ---
 
