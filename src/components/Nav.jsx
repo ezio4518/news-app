@@ -10,19 +10,19 @@ const Nav = ({setCategory}) => {
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-        <li className="nav-item">
+        <li className="nav-item" style={{cursor:"pointer"}}>
           <div className="nav-link active" onClick={()=>setCategory("technology")}>Technology</div>
         </li>
-        <li className="nav-item">
+        <li className="nav-item" style={{cursor:"pointer"}}>
           <div className="nav-link active" onClick={()=>setCategory("business")}>Business</div>
         </li>
-        <li className="nav-item">
+        <li className="nav-item" style={{cursor:"pointer"}}>
           <div className="nav-link active" onClick={()=>setCategory("health")}>Health</div>
         </li>
-        <li className="nav-item">
+        <li className="nav-item" style={{cursor:"pointer"}}>
           <div className="nav-link active" onClick={()=>setCategory("sports")}>Sports</div>
         </li>
-        <li className="nav-item">
+        <li className="nav-item"style={{cursor:"pointer"}}>
           <div className="nav-link active" onClick={()=>setCategory("entertainment")}>Entertainment</div>
         </li>
       </ul>
