@@ -17,7 +17,7 @@ News App is a dynamic platform for fetching and displaying the latest news artic
 - **ReactJS**: ⚛️ Frontend library for building the user interface.
 - **Vite**: 🚀 Fast development and build tooling.
 - **Bootstrap**: 🎨 For responsive and modern UI styling.
-- **News API**: 🌐 Used to fetch the latest news articles. [News API Documentation](https://newsapi.org/)
+- **GNews API**: 🌐 Used to fetch the latest news articles. [GNews API Documentation](https://gnews.io/docs/v4#introduction)
 
 ---
 
@@ -27,7 +27,7 @@ To get started with the News App, follow these steps:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-username/news-app
+git clone https://github.com/ezio4518/news-app.git
 ```
 
 ### Navigate to the Project Directory:
@@ -53,7 +53,7 @@ Open your browser and navigate to ```http://localhost:3000``` to view the applic
 ---
 
 ## API Used 🌐
-This project uses the News API to fetch the latest news articles. You can learn more about the API [here](https://newsapi.org/).
+This project uses the News API to fetch the latest news articles. You can learn more about the API [here](https://gnews.io/docs/v4#introduction).
 
 ---
 
